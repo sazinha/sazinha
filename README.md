@@ -9,6 +9,6 @@
 - ⚡ Fun fact: **I love cats 🐱, I enjoy playing games 🎮, traveling ✈️, and my dream is to become an experienced programmer 💻**
 
   
-          <div style="display: inline_block"><br>
+         
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </div>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
